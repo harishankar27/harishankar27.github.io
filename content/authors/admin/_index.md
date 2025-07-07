@@ -1,16 +1,17 @@
-<!-- ---
+---
 # Display name
-title: Harishankar M
+title: 吳健雄
+
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Harishankar 
-last_name: M
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
-  icon: ''
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,53 +20,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MTech student, Dynamics and Control
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: IIT Hyderabad
-    url: https://www.iith.ac.in/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-# profiles:
-#   - icon: at-symbol
-#     url: 'mailto:harishankarm.contact@gmail.com'
-#     label: E-mail Me
-#   # - icon: brands/x
-#   #   url: https://twitter.com/GetResearchDev
-#   # - icon: brands/instagram
-#   #   url: https://www.instagram.com/
-#   - icon: brands/github
-#     url: https://github.com/harishankar27
-#   - icon: brands/linkedin
-#     url: https://www.linkedin.com/in/harishankar-m-058486250/
-#   # - icon: academicons/google-scholar
-#   #   url: https://scholar.google.com/
-#   # - icon: academicons/orcid
-#   #   url: https://orcid.org/
 profiles:
   - icon: at-symbol
-    url: 'mailto:harishankarm.contact@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/harishankar27
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/harishankar-m-058486250/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
-
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
-  - Dynamical Systems and Control
-  - Reinforcement Learning
-  - Complex Networks
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
@@ -136,7 +120,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Matlab
+      - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
@@ -199,132 +183,4 @@ awards:
 
 ## About Me
 
-<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-
-<!-- I am a Dual Degree student with specilisation in Systems and Control in the department of Electrical Engineering at Indian Institute of Technology Hyderabad  --> 
-
----
-# Display name
-title: Harishankar M
-
-# Full name (for SEO)
-first_name: Harishankar 
-last_name: M
-
-# Status emoji
-status:
-  icon: ''
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Role/position/tagline
-role: Dual Degree Student, Systems and Control
-
-# Organizations/Affiliations to display in Biography block
-organizations:
-  - name: Indian Institute of Technology Hyderabad
-    url: https://www.iith.ac.in/
-
-# Social network links
-profiles:
-  - icon: at-symbol
-    url: 'mailto:harisree2712003@gmail.com'
-  - icon: brands/github
-    url: https://github.com/harishankar27
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/harishankar-m-058486250/
-
-interests:
-  - Dynamical Systems and Control
-  - Reinforcement Learning 
-  - Complex Networks
-  - Swarming and Collective Behavior
-
-education:
-  - area: Dual Degree in Electrical Engineering (Systems and Control)
-    institution: Indian Institute of Technology Hyderabad
-    date_start: 2021-07-01
-    date_end: 2025-07-01
-    summary: |
-      CGPA: 9.22/10
-      
-      Relevant coursework:
-      - Control Systems, Advanced Control Theory, Machine Learning
-      - Digital Signal Processing, Probability and Random Processes
-      - Convex Optimization, Image and Video Processing
-      - Mobile Robotics, Information Theory
-    button:
-      text: 'Course Projects'
-      url: 'https://github.com/harishankar27/My-Works/tree/main/Courses'
-
-work:
-  - position: DAAD WISE Intern (Summer 2024)
-    company_name: PIK Potsdam (Germany)
-    company_url: https://www.pik-potsdam.de/members/marwan/homepage
-    date_start: 2024-05-01
-    date_end: 2024-07-31
-    summary: |
-      Research intern under Dr. Norbert Marwan on modeling and simulation in complex dynamical networks.
-
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        percent: 80
-        icon: code-bracket
-      - name: MATLAB
-        percent: 60
-        icon: circle-stack
-      - name: Deep Learning
-        percent: 70
-        icon: brain
-      - name: Scientific Computing
-        percent: 75
-        icon: function
-
-  - name: Hobbies
-    items:
-      - name: Hiking
-        percent: 60
-        icon: person-simple-walk
-      - name: Photography
-        percent: 80
-        icon: camera
-      - name: Cats
-        percent: 100
-        icon: cat
-
-languages:
-  - name: English
-    percent: 100
-  - name: Malayalam
-    percent: 100
-  - name: Hindi
-    percent: 70
-
-awards:
-  - title: DAAD WISE 2024 Scholarship
-    date: '2024-05-01'
-    awarder: DAAD Germany
-    summary: Selected for funded summer research internship in Germany under Dr. Norbert Marwan.
-    icon: school
-  - title: Best Poster Award – CNLDS 2023
-    date: '2023-12-01'
-    awarder: Conference on Complexity and Nonlinear Dynamics in STEM
-    summary: For poster on “Flocking in the Presence of Noise”.
-    url: https://github.com/harishankar27/My-Works/blob/main/Acheivements/poster_CNLDS-2023.pdf
-  - title: IIT JEE Advanced 2021 – AIR 1337
-    date: '2021-08-01'
-    awarder: NTA
-    summary: Qualified with All India Rank 1337 in one of the most competitive exams in India.
-
-# About Me (Markdown content)
----
-
-I am a Dual Degree student specializing in Systems and Control in the Department of Electrical Engineering at IIT Hyderabad. My research interests span dynamical systems, complex networks, swarming, and data-driven control. I’ve worked on both theoretical modeling and applied projects involving collective agent motion, cardiovascular networks, and intelligent sensing systems. I was awarded the DAAD WISE 2024 scholarship to pursue a summer research internship in Germany .
-
----
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
