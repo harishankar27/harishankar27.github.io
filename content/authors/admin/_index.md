@@ -10,7 +10,7 @@ first_name: Harishankar
 last_name: M
 
 # Status emoji
-status: ''
+status: 
   icon: ''
 
 # Is this the primary user of the site?
