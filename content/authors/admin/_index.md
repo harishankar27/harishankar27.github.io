@@ -47,10 +47,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Control Theory 
-  - Dynamical Systems
-  - Complex Systems
-  - Reinforcement Learning
+  - Dynamical Systems 
+  - Control Theory
+  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
