@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Harishankar 
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Harishankar 
-last_name: M
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
-status: 
-  icon: ''
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Dual Degree, Department of Electrical Engineering , IIT Hyderabad
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,24 +31,24 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'harishankarm.contact@gmail.com'
-    label: ''
-  #- icon: brands/x
-  #  url: https://twitter.com/GetResearchDev
-  #- icon: brands/instagram
-  #  url: https://www.instagram.com/
+    url: 'mailto:your-email@example.com'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/harishankar27
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/harishankar273/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
-  - Dynamical Systems 
-  - Control Theory
+  - Artificial Intelligence
+  - Computational Linguistics
   - Information Retrieval
 
 education:
