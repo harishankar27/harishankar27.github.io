@@ -52,10 +52,10 @@ interests:
   - Reinforcement Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BTech + MTech in Electrical Engineering with Specialisation in Systems and Control
+    institution: Indian Institute of Technology Hyderabad
+    date_start: 2021-11-30
+    date_end: 2025-07-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
